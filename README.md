@@ -11,8 +11,3 @@ But for the first time after pushing to github, set the source of github page to
 
 Have fun with mdbook!
 
-# Summary
-
-- [Chapter 1](./src/chapter_1.md)
-
-
